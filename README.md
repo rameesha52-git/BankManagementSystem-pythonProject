@@ -23,5 +23,5 @@ The code is organized into the following functions:
 + view_transaction() : This function allows the user to view their transaction history for the current session.
 
  ## Conclusion
-This project demonstrates the implementation of a basic Bank Management System using Python and Tkinter. It covers essential banking operations while providing a graphical user interface for easy interaction. The application is designed to be intuitive and user-friendly, making it a suitable foundation for more complex banking systems
+This project demonstrates the implementation of a basic Bank Management System using Python and Tkinter. It covers essential banking operations while providing a graphical user interface for easy interaction. The application is designed to be intuitive and user-friendly, making it a suitable foundation for more complex banking systems.
 
