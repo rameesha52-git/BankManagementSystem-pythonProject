@@ -1,3 +1,12 @@
+
+
+
+
+
+
+https://github.com/user-attachments/assets/91f71928-b0f3-4095-a5c6-a5f533207f89
+
+
 # BankManagementSystem-pythonProject
 This project is a simple Bank Management System implemented using Python and the Tkinter library for the graphical user interface (GUI). The application provides fundamental banking functionalities such as account creation, account login, amount depositing, amount withdrawal, and balance checking.
 
